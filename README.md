@@ -9,3 +9,4 @@
 
 simple scirpt que conprueba la conexion a internet conectandose a google y obteniendo una respuesta de este
 _______________________________________________________________________________________________________________________
+![Alt text](https://github.com/BarbatosRE/prueba-de-conexion-con-socket/blob/master/IMG.jpg?raw=true "Title")
