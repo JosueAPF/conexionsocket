@@ -4,7 +4,7 @@
 
 
 
-# prueba-de-conexion-con-socket
+# prueba de conexion con socket
 ### :toilet:conectado a google con la libreria socket:toilet:
 
 
